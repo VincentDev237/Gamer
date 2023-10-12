@@ -1,0 +1,21 @@
+================= Formulaire de connexion =================
+.form__title
+    "se connecter au compte"
+
+.form__subtitle
+    "content de vous revoir"
+
+================= Formulaire d'inscription =================
+.form__title
+    "S'inscrire"
+
+.form__subtitle
+    "Bienvenue sur notre site"
+
+================= Border Clip Path =================
+
+"M x,y L x,y H x  V y L x,y  H x V y Z M x,y L x,y V y H x L x,y V x H y Z"
+
+================= Background Clip Path =================
+
+"M x,y V y L x,y H x V y L x,y H x Z"
